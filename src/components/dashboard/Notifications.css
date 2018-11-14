@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Merienda|Poor+Story");
+
+.notifications li {
+  padding: 10px 0px;
+  border-bottom: 1px dashed rgb(211, 28, 28);
+}
+
+.card-title {
+  font-family: "Merienda", cursive;
+}
